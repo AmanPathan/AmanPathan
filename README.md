@@ -48,9 +48,9 @@ A passionate <i><b>Web-Developer</b></i></h1>
 </p>
 &nbsp; 
 <p style="display:flex;flex-direction:column;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanpathan&show_icons=true&locale=en" alt="amanpathan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpathan&show_icons=true&locale=en" alt="amanpathan" />
  &nbsp;
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpathan&" alt="amanpathan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpathan&" alt="amanpathan" />
  &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpathan&show_icons=true&locale=en&layout=compact" alt="amanpathan" />
 </p>
