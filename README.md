@@ -51,11 +51,11 @@ A passionate <i><b>Web-Developer</b></i></h1>
 
 &nbsp; 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpathan&show_icons=true&locale=en" alt="amanpathan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanpathan&show_icons=true&locale=en" alt="amanpathan" /></p>
 
 &nbsp; 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpathan&" alt="amanpathan" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpathan&" alt="amanpathan" /></p>
 
 &nbsp; 
 
