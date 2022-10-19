@@ -31,7 +31,6 @@ A passionate <i><b>Web-Developer</b></i></h1>
 - 5⭐ on ***C++*** on **Hackerrank**
 - 5⭐ on ***Python*** on **Hackerrank**
 
-&nbsp; 
 ## Connect with me:
 
 <p align="center">
@@ -42,8 +41,6 @@ A passionate <i><b>Web-Developer</b></i></h1>
 <a href="https://www.hackerrank.com/@amanpathan526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@amanpathan526" height="30" width="40" /></a>
 
 </p>
-
-&nbsp; 
 
 ## Languages and Tools:
 
