@@ -4,7 +4,7 @@
 <h1 align="center" style="font-family: 'Merriweather', serif;">Hi <img src="./img/wavegif.gif" width="40px" height="40px" align="center"/>, I'm <b>Aman Pathan</b><br>
 A passionate <i><b>Web-Developer</b></i></h1>
 
-# <img src="./img/bg.gif" width="100%" height="200px" align="center" />
+# <img src="./img/bannerfinal.gif" width="100%" height="300px" align="center" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathan&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathan" /> </p> -->
 
@@ -50,6 +50,7 @@ A passionate <i><b>Web-Developer</b></i></h1>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amanpathan&show_icons=true&locale=en" alt="amanpathan" />
 &ensp; 
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpathan&show_icons=true&locale=en&layout=compact" alt="amanpathan" />
 </div>
   
