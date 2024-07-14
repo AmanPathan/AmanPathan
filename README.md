@@ -2,7 +2,7 @@
 
   
 <h1 align="center" style="font-family: 'Merriweather', serif;">Hi <img src="./img/wavegif.gif" width="40px" height="40px" align="center"/>, I'm <b>Aman Pathan</b><br>
-A passionate <i><b>FullStack Web Developer</b></i></h1>
+A passionate <i><b>Web Developer</b></i></h1>
 
 ## Badges Earned ! 
   
