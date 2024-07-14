@@ -4,7 +4,9 @@
 <h1 align="center" style="font-family: 'Merriweather', serif;">Hi <img src="./img/wavegif.gif" width="40px" height="40px" align="center"/>, I'm <b>Aman Pathan</b><br>
 A passionate <i><b>FullStack Web Developer</b></i></h1>
 
-# <img src="./img/gitbanner (1).gif" width="100%" height="300px" align="center" />
+## Badges Earned ! 
+  
+[![@amanpathan's Holopin board](https://holopin.me/amanpathan)](https://holopin.io/@amanpathan)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathan&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathan" /> </p> -->
 
@@ -58,9 +60,5 @@ A passionate <i><b>FullStack Web Developer</b></i></h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathan&hide_progress=true&theme=dark)](https://github.com/AmanPathan/github-readme-stats)
   
  </div>
-
-## Badges Earned ! 
-  
-[![@amanpathan's Holopin board](https://holopin.me/amanpathan)](https://holopin.io/@amanpathan)
 
 </body>
