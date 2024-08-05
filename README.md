@@ -14,13 +14,13 @@ A passionate <i><b>Web Developer</b></i></h1>
 
 ### - 🎓 Pursuing **B.E-IT** from **Dr. D. Y. Patil College of Engineering**
 
-### - 🌱 I’m currently learning **React, Java**
+### - 🌱 I’m currently learning **Docker**
 
 ### - 📢 Ask me about **WebDevelopment**
 
 ### - 🤝 Ready for **Open Source Contributions**
 
-### - ⚡ Fun fact, **I'm Smart 😉**
+### - ⚡ Fun fact, **I have earned reward worth 250$ for open-source contributions 😉**
 
 ### - 📫 How to reach me **amanpathan526@gmail.com**
   
