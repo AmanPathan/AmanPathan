@@ -4,6 +4,8 @@
 <h1 align="center" style="font-family: 'Merriweather', serif;">Hi <img src="./img/wavegif.gif" width="40px" height="40px" align="center"/>, I'm <b>Aman Pathan</b><br>
 A passionate <i><b>Web Developer</b></i></h1>
 
+<h2 align="center" style="font-family: 'Merriweather', serif;"><a href="https://amanpathan.netlify.app/">Click Here</a> to Visit My Portfolio</h2>
+
 ## Badges Earned ! 
   
 [![@amanpathan's Holopin board](https://holopin.me/amanpathan)](https://holopin.io/@amanpathan)
