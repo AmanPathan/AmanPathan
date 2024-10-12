@@ -2,11 +2,11 @@
 
   
 <h1 align="center" style="font-family: 'Merriweather', serif;">Hi <img src="./img/wavegif.gif" width="40px" height="40px" align="center"/>, I'm <b>Aman Pathan</b><br>
-A passionate <i><b>Web Developer</b></i></h1>
+A passionate <i><b>MERN Developer</b></i></h1>
 
 <h2 align="center" style="font-family: 'Merriweather', serif;"><a href="https://amanpathan.netlify.app/">Click Here</a> to Visit My Portfolio</h2>
 
-## Badges Earned ! 
+## Badges Earned! 
   
 [![@amanpathan's Holopin board](https://holopin.me/amanpathan)](https://holopin.io/@amanpathan)
 
@@ -14,13 +14,15 @@ A passionate <i><b>Web Developer</b></i></h1>
 
 <br/>
 
-### - 🎓 Pursuing **B.E-IT** from **Dr. D. Y. Patil College of Engineering**
+### - 🎓 Pursuing **B.E-IT** from **Dr. D. Y. Patil College of Engineering, Pune**
 
-### - 🌱 I’m currently learning **Docker**
+### - 🌱 I’m currently learning **React Native**
 
 ### - 📢 Ask me about **WebDevelopment**
 
 ### - 🤝 Ready for **Open Source Contributions**
+
+### - ⚒️ Startup : **Enfiq - Freelancing Agency**
 
 ### - ⚡ Fun fact, **I have earned reward worth 250$ for open-source contributions 😉**
 
@@ -59,7 +61,7 @@ A passionate <i><b>Web Developer</b></i></h1>
   
 [![AmanPathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanpathan&theme=dark)](https://github.com/AmanPathan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathan&hide_progress=true&theme=dark)](https://github.com/AmanPathan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathan&theme=dark)](https://github.com/AmanPathan/github-readme-stats)
 
 [![Leetcode Stats](https://leetcode.card.workers.dev/amanpathan526?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/amanpathan526/)
   
